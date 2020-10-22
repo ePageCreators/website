@@ -1,0 +1,8 @@
+#home{
+    display: flex;
+    flex-direction: column;
+}
+
+#ph_em{
+    font-size: 13px;
+}
